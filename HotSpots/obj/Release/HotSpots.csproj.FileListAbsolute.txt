@@ -1,0 +1,181 @@
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\bank.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\DarkBackGround.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\email.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Filter.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Home.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Menu.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Pharmacy.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Profile.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Reservation.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Reviews.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\sendtofriend.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Website.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\ApplicationIcon.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Background.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Go.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\MapNew.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\HotSpots.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\HotSpots.pdb
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\AppManifest.xaml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\HotSpots.xap
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\System.Windows.Controls.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\System.Windows.Controls.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\HotSpots\HotSpots\HotSpots\obj\Release\ResolveAssemblyReference.cache
+C:\HotSpots\HotSpots\HotSpots\obj\Release\App.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\AddCategory.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Browser.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Details.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Filter.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Gallery.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\ListResults.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\MainPage.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\MapPage.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\OffersPage.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Search.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Settings.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\HotSpots.g.resources
+C:\HotSpots\HotSpots\HotSpots\obj\Release\HotSpots.UserResources.resources
+C:\HotSpots\HotSpots\HotSpots\obj\Release\GenerateResource.read.1.tlog
+C:\HotSpots\HotSpots\HotSpots\obj\Release\GenerateResource.write.1.tlog
+C:\HotSpots\HotSpots\HotSpots\obj\Release\HotSpots.dll
+C:\HotSpots\HotSpots\HotSpots\obj\Release\HotSpots.pdb
+C:\HotSpots\HotSpots\HotSpots\obj\Release\XapCacheFile.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Settings.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Add.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Cancel.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Ok.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\facebook.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\Favourites.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\ReviewsFromYelp.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Images\twitter.png
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Facebook.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Hammock.WindowsPhone.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Microsoft.Contracts.dll
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Facebook.pdb
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Facebook.xml
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Hammock.WindowsPhone.pdb
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.pdb
+C:\HotSpots\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.xml
+C:\HotSpots\HotSpots\HotSpots\obj\Release\AddFave.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\FaceBookBrowser.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\Favourites.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\PostMessageWindow.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\TweetPage.g.i.cs
+C:\HotSpots\HotSpots\HotSpots\obj\Release\TwitterAuthPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\App.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\AddCategory.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\AddFave.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Browser.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Details.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\FaceBookBrowser.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Favourites.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Filter.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Gallery.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\ListResults.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\MainPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\MapPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\OffersPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\PostMessageWindow.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Search.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\Settings.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\TweetPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\TwitterAuthPage.g.i.cs
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.g.resources
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.UserResources.resources
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Add.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\bank.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Cancel.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Ok.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\DarkBackGround.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\email.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\facebook.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Favourites.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Filter.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Home.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Menu.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Pharmacy.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Profile.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Reservation.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Reviews.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\ReviewsFromYelp.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\sendtofriend.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Settings.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\twitter.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Website.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ApplicationIcon.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Background.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\Go.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Images\MapNew.png
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\HotSpots.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\HotSpots.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\AppManifest.xaml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\HotSpots.xap
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\System.Windows.Controls.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Contracts.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Facebook.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Facebook.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Hammock.WindowsPhone.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\System.Windows.Controls.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\Newtonsoft.Json.WindowsPhone.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\de\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\es\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\fr\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\it\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ja\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ko\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\zh-Hans\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\zh-Hant\System.Windows.Controls.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.pdb
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\XapCacheFile.xml
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.csprojResolveAssemblyReference.cache
+C:\Hotspots 6-26-2011\HotSpots\HotSpots\obj\Release\HotSpots.csproj.GenerateResource.Cache

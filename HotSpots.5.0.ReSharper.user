@@ -1,0 +1,754 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Favourites.xaml.cs" caret="0" fromTop="0" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/d:Facebook/f:FBUris.cs" caret="1673" fromTop="18" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:FaceBookBrowser.xaml.cs" caret="672" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:WatermarkTextBox.cs" caret="1393" fromTop="8" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Filter.xaml.cs" caret="0" fromTop="0" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Filter.xaml" caret="8050" fromTop="21" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Favourites.xaml" caret="10321" fromTop="66" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:MainPage.xaml" caret="5587" fromTop="18" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/d:Twitter/f:TwitterHelper.cs" caret="2683" fromTop="3" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:AddFave.xaml" caret="1789" fromTop="12" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:TweetPage.xaml.cs" caret="1959" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Settings.xaml.cs" caret="2380" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Settings.xaml" caret="5524" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:FaceBookBrowser.xaml" caret="859" fromTop="0" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:TweetPage.xaml" caret="2009" fromTop="25" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/d:Properties/f:WMAppManifest.xml" caret="717" fromTop="8" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ListResults.xaml" caret="3074" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Search.xaml" caret="3150" fromTop="18" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Search.xaml.cs" caret="854" fromTop="11" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:TwitterAuthPage.xaml.cs" caret="2320" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:PostMessageWindow.xaml" caret="3122" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="31641" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:App.xaml.cs" caret="5930" fromTop="27" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="8947" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Browser.xaml.cs" caret="471" fromTop="16" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml" caret="29200" fromTop="19" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ShakeDetector.cs" caret="1485" fromTop="26" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:MainPage.xaml.cs" caret="478" fromTop="4" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ListResults.xaml.cs" caret="2113" fromTop="16" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Utils.cs" caret="10372" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ListResults.xaml.cs" caret="1127" fromTop="16" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ListResults.xaml.cs" caret="880" fromTop="13" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:App.xaml.cs" caret="3246" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="9868" fromTop="10" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="51740" fromTop="10" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:MainPage.xaml.cs" caret="1981" fromTop="1" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="52962" fromTop="4" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Search.xaml.cs" caret="854" fromTop="11" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="7962" fromTop="19" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="7962" fromTop="30" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="7962" fromTop="16" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="7962" fromTop="22" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="7962" fromTop="7" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="3505" fromTop="15" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:PostMessageWindow.xaml" caret="1725" fromTop="24" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:PostMessageWindow.xaml" caret="676" fromTop="7" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:PostMessageWindow.xaml" caret="2146" fromTop="12" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="32049" fromTop="23" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="32777" fromTop="20" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="31705" fromTop="10" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="5136" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:ViewModel.cs" caret="32027" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="5998" fromTop="18" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="4570" fromTop="13" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml" caret="29200" fromTop="19" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="10057" fromTop="31" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="9819" fromTop="16" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="8267" fromTop="9" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Details.xaml.cs" caret="9189" fromTop="14" />
+      <File id="0032A806-4443-4B9D-9BD4-C4666132095A/f:Utils.cs" caret="19644" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="32" />
+      <Item value="ObservableCollection&lt;EditorialData&gt;" priority="0" />
+      <Item value="EditorialData`0" priority="1" />
+      <Item value="editorialData" priority="0" />
+      <Item value="Editorials" priority="0" />
+      <Item value="var" priority="44" />
+      <Item value="string" priority="59" />
+      <Item value="String`0" priority="5" />
+      <Item value="text" priority="2" />
+      <Item value="HotSpots" priority="7" />
+      <Item value="Emulator" priority="1" />
+      <Item value="else" priority="28" />
+      <Item value="_watcher" priority="4" />
+      <Item value="private" priority="23" />
+      <Item value="_url" priority="2" />
+      <Item value="lon" priority="0" />
+      <Item value="RelativeOrAbsolute" priority="6" />
+      <Item value="DataContext" priority="8" />
+      <Item value="ViewModel`0" priority="6" />
+      <Item value="public" priority="41" />
+      <Item value="List" priority="6" />
+      <Item value="if" priority="42" />
+      <Item value="Metros" priority="5" />
+      <Item value="return" priority="40" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="metro" priority="1" />
+      <Item value="App`0" priority="20" />
+      <Item value="NotifyPropertyChanged`0" priority="5" />
+      <Item value="_metros" priority="0" />
+      <Item value="null" priority="23" />
+      <Item value="x" priority="2" />
+      <Item value="location" priority="0" />
+      <Item value="e" priority="6" />
+      <Item value="as" priority="9" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="listbox" priority="4" />
+      <Item value="SearchWhatCategory`0" priority="0" />
+      <Item value="ctor" priority="2" />
+      <Item value="Restaurant" priority="0" />
+      <Item value="get" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="enum" priority="2" />
+      <Item value="_viewModel" priority="25" />
+      <Item value="ObservableCollection" priority="5" />
+      <Item value="o" priority="1" />
+      <Item value="txtFilter" priority="2" />
+      <Item value="Visibility`0" priority="2" />
+      <Item value="Visibility" priority="3" />
+      <Item value="try" priority="9" />
+      <Item value="MessageBox`0" priority="4" />
+      <Item value="url" priority="6" />
+      <Item value="const" priority="1" />
+      <Item value="CurrentSearchText" priority="3" />
+      <Item value="LocalSearch" priority="1" />
+      <Item value="BuildSearchListUrl`0" priority="1" />
+      <Item value="category" priority="7" />
+      <Item value="SearchListUrl" priority="0" />
+      <Item value="override" priority="3" />
+      <Item value="true" priority="21" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="GeoCoordinate`0" priority="2" />
+      <Item value="GeoCoordinate" priority="2" />
+      <Item value="latitude" priority="0" />
+      <Item value="longitude" priority="0" />
+      <Item value="sb" priority="0" />
+      <Item value="GetCurrentLocation`0" priority="2" />
+      <Item value="coordinates" priority="3" />
+      <Item value="WatcherStatusChanged`0" priority="0" />
+      <Item value="returned" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="HasAllowedLocationServices" priority="0" />
+      <Item value="PhoneApplicationPage`0" priority="0" />
+      <Item value="SelectedMenuCategory" priority="1" />
+      <Item value="SearchTypeText" priority="2" />
+      <Item value="false" priority="23" />
+      <Item value="NavigationService" priority="4" />
+      <Item value="Uri" priority="7" />
+      <Item value="static" priority="5" />
+      <Item value="Utils`0" priority="8" />
+      <Item value="SearchType`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="SearchCriteria`0" priority="6" />
+      <Item value="searchCriteria" priority="10" />
+      <Item value="Local" priority="1" />
+      <Item value="LocationType" priority="0" />
+      <Item value="SearchCriteriaType`0" priority="4" />
+      <Item value="Type" priority="0" />
+      <Item value="SearchText" priority="2" />
+      <Item value="bool" priority="7" />
+      <Item value="SearchLocationType`0" priority="0" />
+      <Item value="What" priority="0" />
+      <Item value="Visible" priority="4" />
+      <Item value="LoadedEvent" priority="0" />
+      <Item value="Loaded" priority="4" />
+      <Item value="btnLight" priority="0" />
+      <Item value="button" priority="2" />
+      <Item value="ApplicationBarIconButton" priority="0" />
+      <Item value="appBar" priority="0" />
+      <Item value="ApplicationBarIconButton`0" priority="0" />
+      <Item value="Deployment`0" priority="4" />
+      <Item value="void" priority="9" />
+      <Item value="SetBusyFalse`0" priority="0" />
+      <Item value="CallImpressionTrackerForReview`0" priority="0" />
+      <Item value="findValue" priority="0" />
+      <Item value="deviceId" priority="2" />
+      <Item value="DeviceId" priority="1" />
+      <Item value="request" priority="1" />
+      <Item value="Rect`0" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Convert`0" priority="3" />
+      <Item value="byte" priority="0" />
+      <Item value="value" priority="3" />
+      <Item value="viewModel" priority="30" />
+      <Item value="VisibilityProperty" priority="0" />
+      <Item value="SearchLat" priority="1" />
+      <Item value="searchLat" priority="0" />
+      <Item value="CurrentLat" priority="0" />
+      <Item value="CurrentLon" priority="0" />
+      <Item value="LinksData`0" priority="1" />
+      <Item value="MoreInfos" priority="3" />
+      <Item value="List&lt;LinksData&gt;" priority="0" />
+      <Item value="linkData" priority="2" />
+      <Item value="links" priority="1" />
+      <Item value="SortType`0" priority="6" />
+      <Item value="SelectedRppType" priority="1" />
+      <Item value="Twenty" priority="0" />
+      <Item value="SelectedSortType" priority="1" />
+      <Item value="Distance" priority="0" />
+      <Item value="KeyValuePair" priority="1" />
+      <Item value="KeyValuePair&lt;string,string&gt;" priority="0" />
+      <Item value="sortType" priority="2" />
+      <Item value="KeyedCollection" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="sortTypes" priority="0" />
+      <Item value="Dictionary&lt;SortType,string&gt;" priority="0" />
+      <Item value="SortTypes" priority="0" />
+      <Item value="RppType`0" priority="3" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="1" />
+      <Item value="rppType" priority="0" />
+      <Item value="sortDistance" priority="1" />
+      <Item value="rpp20" priority="0" />
+      <Item value="rpp30" priority="0" />
+      <Item value="break" priority="3" />
+      <Item value="sortAlpha" priority="0" />
+      <Item value="sortRated" priority="0" />
+      <Item value="sortReviewed" priority="0" />
+      <Item value="sortMatches" priority="0" />
+      <Item value="sortOffers" priority="0" />
+      <Item value="sender" priority="0" />
+      <Item value="RadioButton`0" priority="0" />
+      <Item value="Enum`0" priority="1" />
+      <Item value="result" priority="4" />
+      <Item value="AddCategory`0" priority="0" />
+      <Item value="child" priority="4" />
+      <Item value="finally" priority="0" />
+      <Item value="select" priority="1" />
+      <Item value="customerMessage" priority="0" />
+      <Item value="straboutData" priority="0" />
+      <Item value="MenuCategories" priority="0" />
+      <Item value="credentialsProvider" priority="0" />
+      <Item value="Bing" priority="0" />
+      <Item value="Geocode" priority="1" />
+      <Item value="Route" priority="0" />
+      <Item value="GeocodeLocation`0" priority="0" />
+      <Item value="Credentials" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="coordinate" priority="0" />
+      <Item value="LocationLat" priority="0" />
+      <Item value="LocationLong" priority="0" />
+      <Item value="USLocation" priority="2" />
+      <Item value="l" priority="11" />
+      <Item value="RatingUrl" priority="0" />
+      <Item value="TotalHits" priority="0" />
+      <Item value="Collapsed" priority="0" />
+      <Item value="USVisibility" priority="3" />
+      <Item value="DetailsPivot" priority="1" />
+      <Item value="DetailsNonUsPivot" priority="0" />
+      <Item value="Review`0" priority="0" />
+      <Item value="Reviews" priority="0" />
+      <Item value="reviewData" priority="1" />
+      <Item value="review" priority="1" />
+      <Item value="ObservableCollection&lt;ReviewData&gt;" priority="0" />
+      <Item value="listboxNonUs" priority="0" />
+      <Item value="Category`0" priority="2" />
+      <Item value="SelectedLocation" priority="0" />
+      <Item value="n" priority="0" />
+      <Item value="PhoneClick`0" priority="0" />
+      <Item value="AddressClick`0" priority="0" />
+      <Item value="ChildWindow`0" priority="0" />
+      <Item value="Popup`0" priority="0" />
+      <Item value="PostMessageWindow`0" priority="2" />
+      <Item value="_popup" priority="3" />
+      <Item value="Center" priority="0" />
+      <Item value="ShowPopup`0" priority="0" />
+      <Item value="webSiteLink" priority="1" />
+      <Item value="w" priority="1" />
+      <Item value="link" priority="0" />
+      <Item value="AddFave`0" priority="0" />
+      <Item value="faveText" priority="1" />
+      <Item value="ObservableCollection&lt;string&gt;" priority="0" />
+      <Item value="Favourites" priority="4" />
+      <Item value="class" priority="1" />
+      <Item value="ListFavourite`0" priority="4" />
+      <Item value="list" priority="3" />
+      <Item value="ListFavourite" priority="2" />
+      <Item value="Code" priority="2" />
+      <Item value="favourite" priority="2" />
+      <Item value="Counter" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="delete" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="f" priority="1" />
+      <Item value="INotifyPropertyChanged`0" priority="0" />
+      <Item value="IsSelected" priority="0" />
+      <Item value="listFavourite" priority="0" />
+      <Item value="isSelected" priority="0" />
+      <Item value="item" priority="0" />
+      <Item value="counter" priority="0" />
+      <Item value="ReArrangeFavouritesCounter`0" priority="0" />
+      <Item value="selectedItem" priority="1" />
+      <Item value="LoadCategories`0" priority="0" />
+      <Item value="List&lt;Category&gt;" priority="0" />
+      <Item value="menuCategory" priority="1" />
+      <Item value="NonUSSearchCriteria`0" priority="0" />
+      <Item value="NonUSSearchCriteriaType`0" priority="0" />
+      <Item value="NonUSSearchText" priority="0" />
+      <Item value="SearchLocation" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="IEnumerable`0" priority="2" />
+      <Item value="ApplySort`0" priority="0" />
+      <Item value="ListResults" priority="3" />
+      <Item value="ObservableCollection&lt;ListData&gt;" priority="0" />
+      <Item value="ListData`0" priority="0" />
+      <Item value="m_fbPost" priority="0" />
+      <Item value="GetCountryName`0" priority="0" />
+      <Item value="_countryName" priority="0" />
+      <Item value="Relative" priority="0" />
+      <Item value="countryName" priority="0" />
+      <Item value="CountryName" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="NonUSVisibility" priority="1" />
+      <Item value="i" priority="0" />
+      <Item value="ReIndex`0" priority="0" />
+      <Item value="adSearch" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="adDetails" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.EditorialData">
+      <Item value="Author" priority="1" />
+      <Item value="Title" priority="1" />
+      <Item value="Review" priority="0" />
+      <Item value="ReviewText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="3" />
+      <Item value="Trim`0" priority="4" />
+      <Item value="ToLower`0" priority="5" />
+      <Item value="IsNullOrEmpty`0" priority="6" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="ToDouble`0" priority="4" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="2" />
+      <Item value="Count`1" priority="1" />
+      <Item value="Add`0" priority="1" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Where`1" priority="1" />
+      <Item value="ToObservableCollection`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="13" />
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="5" />
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoCoordinateWatcher">
+      <Item value="PositionChanged" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="1" />
+      <Item value="TryStart`0" priority="0" />
+      <Item value="StatusChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XAttribute">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.ViewModel">
+      <Item value="SetMetroData`0" priority="0" />
+      <Item value="StoredSearchLocations" priority="0" />
+      <Item value="SearchListUrl" priority="0" />
+      <Item value="SelectedSearchWhereLat" priority="1" />
+      <Item value="SelectedMenuCategory" priority="2" />
+      <Item value="SearchTypeText" priority="0" />
+      <Item value="AllowedServiceLocator" priority="2" />
+      <Item value="Busy" priority="3" />
+      <Item value="Loaded" priority="3" />
+      <Item value="ServiceLocatorInitialized" priority="0" />
+      <Item value="SelectedLocation" priority="5" />
+      <Item value="SelectedRppType" priority="1" />
+      <Item value="SelectedSortType" priority="3" />
+      <Item value="GetSortType`0" priority="0" />
+      <Item value="GetSelectedSortType`0" priority="0" />
+      <Item value="SearchForOffers" priority="0" />
+      <Item value="GetSelectedRppType`0" priority="0" />
+      <Item value="USLocation" priority="9" />
+      <Item value="CurrentLat" priority="4" />
+      <Item value="CurrentLon" priority="3" />
+      <Item value="SetCategoryCodes`0" priority="0" />
+      <Item value="PostMessageCaption" priority="0" />
+      <Item value="PostMessageMaxLength" priority="0" />
+      <Item value="MoreInfos" priority="3" />
+      <Item value="PostMessageText" priority="2" />
+      <Item value="Favourites" priority="1" />
+      <Item value="ListFavourites" priority="0" />
+      <Item value="DeleteFavourites`0" priority="0" />
+      <Item value="SelectedFavourite" priority="1" />
+      <Item value="CountryLocated" priority="4" />
+      <Item value="LoadCategories`0" priority="0" />
+      <Item value="CountryName" priority="2" />
+      <Item value="ProgressBarText" priority="0" />
+      <Item value="LoadFavourites`0" priority="0" />
+      <Item value="SelectedReview" priority="0" />
+      <Item value="SelectedEditorial" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.App">
+      <Item value="DataViewModel" priority="20" />
+      <Item value="DeviceId" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="7" />
+      <Item value="ToArray`1" priority="0" />
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="Distinct`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.SelectionChangedEventArgs">
+      <Item value="OriginalSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="SelectedItem" priority="2" />
+      <Item value="SelectedIndex" priority="1" />
+      <Item value="Visibility" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.DownloadStringCompletedEventArgs">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Count" priority="2" />
+      <Item value="Take`1" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="Where`1" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.WatermarkTextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Collapsed" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="Collapsed" priority="3" />
+      <Item value="Visible" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.MenuCategory">
+      <Item value="Code" priority="6" />
+      <Item value="CriteriaType" priority="0" />
+      <Item value="Name" priority="3" />
+      <Item value="Image" priority="0" />
+      <Item value="NonUSCode" priority="7" />
+      <Item value="NonUSCriteriaType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoCoordinate">
+      <Item value="Latitude" priority="4" />
+      <Item value="Longitude" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Shell.PhoneApplicationService">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Devices.DeviceType">
+      <Item value="Device" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationService">
+      <Item value="Navigate`0" priority="4" />
+      <Item value="GoBack`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.Utils+SearchType">
+      <Item value="Local" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.SearchCriteria">
+      <Item value="LocationType" priority="1" />
+      <Item value="MenuCategoryCode" priority="0" />
+      <Item value="LocationLat" priority="1" />
+      <Item value="CriteriaType" priority="1" />
+      <Item value="SearchText" priority="0" />
+      <Item value="NonUSCriteriaType" priority="2" />
+      <Item value="LocationLong" priority="0" />
+      <Item value="NonUSSearchText" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.Utils">
+      <Item value="SearchListResults`0" priority="2" />
+      <Item value="GetCurrentLocation`0" priority="0" />
+      <Item value="SetDetailDataCompleted" priority="0" />
+      <Item value="GetDeviceUniqueID`0" priority="0" />
+      <Item value="GetCountryCode`0" priority="0" />
+      <Item value="SetCountryCodeCompleted" priority="0" />
+      <Item value="GetCountryName`0" priority="0" />
+      <Item value="SetCountryName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.SearchLocationType">
+      <Item value="Local" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.SearchCriteriaType">
+      <Item value="What" priority="3" />
+      <Item value="Type" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Shell.ApplicationBarIconButton">
+      <Item value="IconUri" priority="2" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Shell.ApplicationBar">
+      <Item value="Buttons" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Shell.IApplicationBar">
+      <Item value="Buttons" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Deployment">
+      <Item value="Current" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Deployment">
+      <Item value="Dispatcher" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Pivot">
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="ItemsPanel" priority="0" />
+      <Item value="Items" priority="1" />
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Phone.Info.DeviceExtendedProperties">
+      <Item value="TryGetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="Credentials" priority="0" />
+      <Item value="RequestUri" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="UserInfo" priority="0" />
+      <Item value="AbsolutePath" priority="2" />
+      <Item value="AbsoluteUri" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToBase64String`0" priority="1" />
+      <Item value="ToInt32`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.ListData">
+      <Item value="Name" priority="2" />
+      <Item value="Reviews" priority="1" />
+      <Item value="Categories" priority="1" />
+      <Item value="Phone" priority="0" />
+      <Item value="Address" priority="0" />
+      <Item value="ImgSource" priority="0" />
+      <Item value="Miles" priority="1" />
+      <Item value="RatingValue" priority="0" />
+      <Item value="ReviewNumber" priority="0" />
+      <Item value="ReviewCount" priority="0" />
+      <Item value="Counter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element`0" priority="1" />
+      <Item value="Value" priority="0" />
+      <Item value="Attribute`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.MoreInfoData">
+      <Item value="Links" priority="4" />
+      <Item value="AttributionText" priority="0" />
+      <Item value="CustomerMessageUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.LinksData">
+      <Item value="Text" priority="2" />
+      <Item value="Url" priority="4" />
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="RelativeOrAbsolute" priority="1" />
+      <Item value="Absolute" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.SortType">
+      <Item value="Distance" priority="1" />
+      <Item value="Alpha" priority="0" />
+      <Item value="HighestRated" priority="0" />
+      <Item value="MostReviewed" priority="0" />
+      <Item value="TopMatches" priority="1" />
+      <Item value="Offers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.RppType">
+      <Item value="Twenty" priority="1" />
+      <Item value="Thirty" priority="1" />
+      <Item value="Forty" priority="1" />
+      <Item value="Fifty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="IsChecked" priority="0" />
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetName`0" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.AddCategory">
+      <Item value="btnOk" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.Popup">
+      <Item value="IsOpen" priority="3" />
+      <Item value="Child" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Bing.Geocode.ReverseGeocodeRequest">
+      <Item value="Credentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Bing.Geocode.ReverseGeocodeCompletedEventArgs">
+      <Item value="Result" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Bing.Geocode.GeocodeResponse">
+      <Item value="Results" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Objects.SearchResult">
+      <Item value="Businesses" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Objects.Business">
+      <Item value="Latitude" priority="1" />
+      <Item value="Longitude" priority="1" />
+      <Item value="PhoneNumber" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="Address1" priority="0" />
+      <Item value="ZipCode" priority="0" />
+      <Item value="PhotoUrl" priority="0" />
+      <Item value="AverageRating" priority="1" />
+      <Item value="RatingImageUrl" priority="0" />
+      <Item value="RatingImageUrlSmall" priority="0" />
+      <Item value="Category" priority="0" />
+      <Item value="Categories" priority="1" />
+      <Item value="Reviews" priority="0" />
+      <Item value="MobileUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="5" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Single">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Remove`0" priority="0" />
+      <Item value="RemoveAt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Objects.Review">
+      <Item value="UserName" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="Excerpt" priority="2" />
+      <Item value="Rating" priority="1" />
+      <Item value="MobileUrl" priority="0" />
+      <Item value="UserPhotoUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.ReviewData">
+      <Item value="ReviewOwnerPhotoUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Objects.Category">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.PostMessageWindow">
+      <Item value="btnOk" priority="1" />
+      <Item value="btnCancel" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="postMessageText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.Facebook.FBWallPost">
+      <Item value="TheCaption" priority="0" />
+      <Item value="TheName" priority="0" />
+      <Item value="TheMessage" priority="0" />
+      <Item value="TheLink" priority="0" />
+      <Item value="ThePictureLink" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.AddFave">
+      <Item value="faveText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.ListFavourite">
+      <Item value="Counter" priority="1" />
+      <Item value="Code" priority="5" />
+      <Item value="Selected" priority="1" />
+      <Item value="IsSelected" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HotSpots.NonUSSearchCriteriaType">
+      <Item value="Category" priority="1" />
+      <Item value="Term" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HotSpots.NonUSSearchCriteria">
+      <Item value="CriteriaType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="FontStyle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.GamerServices.MessageBoxIcon">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Advertising.Mobile.UI.AdControl">
+      <Item value="Loaded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Advertising.Mobile.UI.Location">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Latitude" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

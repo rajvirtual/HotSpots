@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="HotSpots.AddFave"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:HotSpots="clr-namespace:HotSpots"
+             mc:Ignorable="d"
+             FontFamily="{StaticResource PhoneFontFamilyNormal}"
+             FontSize="{StaticResource PhoneFontSizeNormal}"
+             Foreground="{StaticResource PhoneForegroundBrush}"
+             d:DesignHeight="480"
+             d:DesignWidth="480"
+             Height="800"
+             Width="480"
+             Background="Black">
+
+    <Grid x:Name="LayoutRoot"
+          Background="Black"
+        >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200">
+
+            </RowDefinition>
+            <RowDefinition Height="auto">
+
+            </RowDefinition>
+            <RowDefinition Height="auto">
+
+            </RowDefinition>
+            <RowDefinition Height="*">
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Height="45"
+                Style="{StaticResource BevelStyle}"
+                Grid.Row="1"
+                Margin="50,15,50,0">
+            <TextBlock Foreground="White"
+                       Text="Add Favourite"
+                       FontFamily="Arial"
+                       FontSize="20">
+
+            </TextBlock>
+        </Button>
+             <HotSpots:WatermarkTextBox Grid.Row="2"
+                                   Height="75"
+                                   Width="480"
+                                   Background="White"
+                                   x:Name="faveText"
+                                   Margin="50,0,50,0"
+                                   Style="{StaticResource TextBoxStyle}"
+                                   Watermark="(e.g. pizza)"
+                                   MaxLength="50">
+
+        </HotSpots:WatermarkTextBox>
+        <StackPanel Orientation="Horizontal"
+                    Width="480"
+                    Margin="50,0,50,0"
+                    VerticalAlignment="Top"
+                    Grid.Row="3">
+            <Button  x:Name="btnOk"
+                     HorizontalAlignment="Center"
+                     Margin="140,0,0,0"
+                     Width="72"
+                     Foreground="White"
+                     Height="72"
+                     BorderBrush="White"
+                     Style="{StaticResource RoundButton}">
+                <Image  Source="Images/Ok.png"
+                        Height="46"
+                        Width="46">
+
+                </Image>
+
+            </Button>
+            <Button x:Name="btnCancel"
+                    Width="72"
+                    Height="72"
+                    BorderBrush="White"
+                    HorizontalAlignment="Center"
+                    Style="{StaticResource RoundButton}">
+                <Image  Source="Images/Cancel.png"
+                        Height="46"
+                        Width="42">
+
+                </Image>
+            </Button>
+
+        </StackPanel>
+
+        <!--</Button>-->
+    </Grid>
+</UserControl>

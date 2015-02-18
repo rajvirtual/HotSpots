@@ -1,0 +1,192 @@
+﻿<phone:PhoneApplicationPage x:Class="HotSpots.Filter"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            mc:Ignorable="d"
+                            d:DesignHeight="768"
+                            d:DesignWidth="480"
+                            shell:SystemTray.IsVisible="False">
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot"
+          Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="0"
+                    Margin="10,12,0,0">
+
+
+            <TextBlock  FontFamily="Arial"
+                        Text="Hot"
+                        FontSize="28">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush>
+                        <GradientStop Offset="0"
+                                      Color="Red"></GradientStop>
+                         <GradientStop Offset=".5"
+                                       Color="#be3c36"></GradientStop>
+                        <GradientStop Offset="1"
+                                      Color="#c63e38"></GradientStop>
+                    </LinearGradientBrush>
+                    
+                </TextBlock.Foreground>
+
+            </TextBlock>
+
+            <TextBlock  FontFamily="Arial"
+                        Foreground="White"
+                        Text=" Spots"
+                        FontSize="28">
+
+            </TextBlock>
+
+        </StackPanel>
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <TextBlock Text="Sort By"
+                           Margin="0,5,0,5"
+                           FontWeight="SemiBold"
+                           Style="{StaticResource PhoneTextNormal}"></TextBlock>
+
+                <RadioButton GroupName="sort"
+                             x:Name="sortDistance"
+                             Tag="Distance"
+                             Background="White"
+                             Foreground="White"
+                             Checked="sortChecked"
+                             Content="Distance">
+                </RadioButton>
+
+                <RadioButton GroupName="sort"
+                             x:Name="sortAlpha"
+                             Tag="Alpha"
+                             Background="White"
+                             Foreground="White"
+                             Checked="sortChecked"
+                             Content="Alphabetical">
+                </RadioButton>
+
+                <RadioButton GroupName="sort"
+                             x:Name="sortRated"
+                             Tag="HighestRated"
+                             Background="White"
+                             Foreground="White"
+                             Checked="sortChecked"
+                             Content="Highest Rated">
+                </RadioButton>
+
+                <RadioButton GroupName="sort"
+                             x:Name="sortReviewed"
+                             Tag="MostReviewed"
+                             Checked="sortChecked"
+                             Background="White"
+                             Foreground="White"
+                             Content="Most Reviewed">
+                </RadioButton>
+
+                <RadioButton GroupName="sort"
+                             Visibility="{Binding USVisibility}"
+                             x:Name="sortMatches"
+                             Tag="TopMatches"
+                             Checked="sortChecked"
+                             Background="White"
+                             Foreground="White"
+                             Content="Top Matches">
+                </RadioButton>
+
+                <RadioButton GroupName="sort"
+                             Visibility="{Binding USVisibility}"
+                             x:Name="sortOffers"
+                             Background="White"
+                             Foreground="White"
+                             Tag="Offers"
+                             Checked="sortChecked"
+                             Content="Offers">
+                </RadioButton >
+            </StackPanel>
+            <StackPanel Grid.Row="1"
+                        Visibility="{Binding USVisibility}">
+                <TextBlock Text="Results Per Page"
+                           Margin="0,5,0,5"
+                           FontWeight="SemiBold"
+                           Style="{StaticResource PhoneTextNormal}"></TextBlock>
+                <StackPanel Orientation="Horizontal">
+
+                    <RadioButton GroupName="rpp"
+                                 x:Name="rpp20"
+                                 Tag="Twenty"
+                                 Background="White"
+                                 Foreground="White"
+                                 Click="RppClicked"
+                                 Content="20">
+                    </RadioButton>
+
+                    <RadioButton GroupName="rpp"
+                                 x:Name="rpp30"
+                                 Tag="Thirty"
+                                 Background="White"
+                                 Foreground="White"
+                                 Click="RppClicked"
+                                 Content="30">
+                    </RadioButton>
+
+                    <RadioButton GroupName="rpp"
+                                 x:Name="rpp40"
+                                 Tag="Forty"
+                                 Background="White"
+                                 Foreground="White"
+                                 Click="RppClicked"
+                                 Content="40">
+                    </RadioButton>
+
+                    <RadioButton GroupName="rpp"
+                                 x:Name="rpp50"
+                                 Tag="Fifty"
+                                 Background="White"
+                                 Foreground="White"
+                                 Click="RppClicked"
+                                 Content="50">
+                    </RadioButton>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2"
+                        Visibility="{Binding USVisibility}">
+                <TextBlock Text="Filter"
+                           Margin="0,5,0,5"
+                           FontWeight="SemiBold"
+                           Style="{StaticResource PhoneTextNormal}"></TextBlock>
+
+                <CheckBox Content="Has Offers"
+                          Background="White"
+                          Foreground="White"
+                          IsChecked="{Binding SearchForOffers,Mode=TwoWay}">
+                </CheckBox>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+
+
+</phone:PhoneApplicationPage>
